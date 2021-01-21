@@ -8,13 +8,17 @@ layout: default
 
 <div style="text-align: justify">
 
+<p>
 My name is Camille COCHENER. I am passionate about Data Science and Artifical Intelligence. Originally from Normandy, I currently live in the beautiful city of Paris in France. At the present time, I am looking for a position of Senior Data Scientist starting from February/March 2021.
+</p>  
 
-**To better know me :**
+<p>
+<b>To better know me :</b>  
+</p>
 
+<p>
 In 2016, I obtained an Engineering Degree in Statistics and Data Science applied to biological and agri-food data from Agrocampus Ouest in Rennes, France. I completed my master thesis in Clarins Laboratories (Pontoise, France). During the internship, I modeled the relationships between consumers' perceptions and instrumental parameters of skin mechanical properties. My supervisor was Sebastien Lê, professor and researcher in the Department of statistics and computer science of Agrocampus Ouest.
-
-<br>
+</p>
 
 After I graduated, I joined a French consulting company in Statistics and Data Science, named IT&M Stats (IT&M group). On its behalf, I had the opportunity to provide my expertise in major French companies from various sectors : industries, healthcare mutual, banks. 
 
