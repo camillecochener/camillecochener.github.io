@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Professional experience](./another-page.html) | [Projects](./another-page.html) | [Blog articles](./another-page.html) | [Contact](./another-page.html)
+[Professional experience](./professional-experience.html) | [Projects](./projects.html) | [Blog articles](./blog-articles.html) | [Contact](./contact.html)
 
 # About me
 
