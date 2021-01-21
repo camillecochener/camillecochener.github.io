@@ -9,7 +9,7 @@ layout: default
 <div style="text-align: justify">
 
 <p>
-My name is Camille COCHENER. I am passionate about Data Science and Artifical Intelligence. Originally from Normandy, I currently live in the beautiful city of Paris in France. At the present time, I am looking for a position of Senior Data Scientist starting from February/March 2021.
+My name is Camille COCHENER. I am passionate about Data Science and Artifical Intelligence. Originally from Normandy, I currently live in the beautiful city of Paris in France. It's been 4 years I'm working on Data Science projects : 3 years in different companies and 1 year during which I attended a Post Master Degree. At the present time, I am looking for a position of Senior Data Scientist starting from February/March 2021.
 </p>  
 
 <p>
