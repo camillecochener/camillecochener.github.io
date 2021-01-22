@@ -8,7 +8,7 @@ theme: jekyll-theme-minimal
 location : "Paris"
 links:
   - label: "Linkedin"
-    icon: "fab fa-fw fa-linkedin"
+    icon: "fa fa-linkedin"
     url: "https://www.linkedin.com/in/camillecochener/"
   - label: "Mail"
     icon: "fas fa-fw fa-envelope-square"
