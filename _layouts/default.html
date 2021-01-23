@@ -35,6 +35,7 @@
 
 
         <div class="author__urls-wrapper">
+          <p style='margin-left: 10px;'>
           <ul class="author__urls social-icons">
             {% if site.location %}
               <i class="fas fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ site.location }}</span><br>
@@ -48,6 +49,7 @@
               {% endfor %}
             {% endif %}
           </ul>
+          </p>
         </div>
 
         {% if site.show_downloads %}
