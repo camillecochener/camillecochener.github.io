@@ -17,5 +17,5 @@ links:
     icon: "fab fa-github"
     url: "https://github.com/camillecochener"
   - label: "Resume"
-    icon: "fab fa-file"
+    icon: "fas fa-file"
     url: "assets/files/CV_CamilleCOCHENER_EN.pdf"
