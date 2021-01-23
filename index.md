@@ -17,7 +17,7 @@ My name is Camille COCHENER. I am passionate about Data Science and Artifical In
 </p>
 
 <p>
-In 2016, I obtained an <span style="#1ABC9C">Engineering Degree in Statistics and Data Science</span> applied to biological and agri-food data from <span style="#1ABC9C">Agrocampus Ouest</span> in Rennes, France. I completed my master thesis in <span style="#1ABC9C">Clarins Laboratories</span> (Pontoise, France). During the internship, I modeled the relationships between consumers' perceptions and instrumental parameters of skin mechanical properties. My supervisor was Sebastien Lê, professor and researcher in the Department of statistics and computer science of Agrocampus Ouest.
+In 2016, I obtained an <span style="#1ABC9C">Engineering Degree in Statistics and Data Science</span> applied to biological and agri-food data from <span style="#1ABC9C">Agrocampus Ouest</span> in Rennes, France. I completed my master thesis at <span style="#1ABC9C">Clarins Laboratories</span> (Pontoise, France). During the internship, I modeled the relationships between consumers' perceptions and instrumental parameters of skin mechanical properties. My supervisor was Sebastien Lê, professor and researcher in the Department of statistics and computer science of Agrocampus Ouest.
 </p>
 
 <p>
