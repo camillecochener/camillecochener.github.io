@@ -8,4 +8,4 @@ layout: default
 
 Coming soon
 
-[Back](./)
+[Back to homepage](./)

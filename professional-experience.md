@@ -8,4 +8,4 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 
 Coming soon
 
-[Back](./)
+[Back to homepage](./)
