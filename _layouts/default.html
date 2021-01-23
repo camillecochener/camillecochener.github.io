@@ -35,6 +35,7 @@
 
 
         <div class="authorlink">
+
             {% if site.location %}
               <i class="fas fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ site.location }}</span><br>
             {% endif %}
@@ -42,10 +43,11 @@
             {% if site.links %}
               {% for link in site.links %}
                 {% if link.label and link.url %}
-                  <a style='text-indent:45px;' href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}"></i> {{ link.label }}</a><br>
+                  <i class="{{ link.icon | default: 'fas fa-link' }}"></i> <a href="{{ link.url }}" rel="nofollow noopener noreferrer"></a>{{ link.label }}</a><br>
                 {% endif %}
               {% endfor %}
             {% endif %}
+
         </div>
 
         {% if site.show_downloads %}
