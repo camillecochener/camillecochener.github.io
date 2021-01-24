@@ -6,7 +6,7 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 
 ## Details about my professional experience
 
-<b>Data Scientist - Computer vision at <a href="https://lixo.tech/">Lixo</b><br>
+<b>Data Scientist - Computer vision at <a href="https://lixo.tech/">Lixo</a></b><br>
 
 <i>From July 2019 to January 2021</i><br>
 
@@ -19,12 +19,12 @@ My missions were :
 
 ---
 
-<b>Data Scientist Consultant at <a href="http://www.itm-stats.com/">IT&M Stats</b><br>
+<b>Data Scientist Consultant at <a href="http://www.itm-stats.com/">IT&M Stats</a></b><br>
 
 
 ---
 
-<b>Data Scientist Intern at <a href="http://www.groupeclarins.com/en">Clarins</b><br>
+<b>Data Scientist Intern at <a href="http://www.groupeclarins.com/en">Clarins</a></b><br>
 
 
 [Back to homepage](./)
