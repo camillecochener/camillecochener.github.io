@@ -10,7 +10,8 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 
 <i>From July 2019 to January 2021</i><br>
 
-<p style="text-align: justify;">Lixo is a startup created at the end of 2019 that develops quality control solutions for waste management players. The heart of the solution is a Computer Vision based application. During 6 months, I've been responsible in the training and deployment of the Computer Vision models.</p> </br>
+<p style="text-align: justify;">Lixo is a startup created at the end of 2019 that develops quality control solutions for waste management players. The heart of the solution is a Computer Vision based application. During 6 months, I've been responsible in the training and deployment of the Computer Vision models.</p> 
+</br>
 
 My missions were : 
 * Trained object detection and segmentation models
