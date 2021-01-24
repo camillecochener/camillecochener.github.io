@@ -34,11 +34,11 @@ I concluded my course by 6 months in a startup named <b><span style="color:#16af
 </p>
 
 <p>
-My full resume is available <a href="assets/files/CV_CamilleCOCHENER_EN.pdf">here</a>, as well as more details about each of my previous experiences here. 
+My full resume is available <a href="assets/files/CV_CamilleCOCHENER_EN.pdf">here</a>, as well as more details about each of my previous experiences <a href="https://camillecochener.github.io/professional-experience.html">here</a>. 
 </p>
 
 <p>
-If you have any questions about my background or just want to discuss data science topics, feel free to contact me. 
+If you have any questions about my background or just want to discuss data science topics, feel free to <a href="https://camillecochener.github.io/contact.html">contact</a> me. 
 </p>
 
 </div>
