@@ -17,5 +17,14 @@ My missions were :
 * Experimented and 
 * Participated in the R&D program
 
+---
+
+<b>Data Scientist Consultant at <a href="http://www.itm-stats.com/">IT&M Stats</b><br>
+
+
+---
+
+<b>Data Scientist Intern at <a href="http://www.groupeclarins.com/en">Clarins</b><br>
+
 
 [Back to homepage](./)
