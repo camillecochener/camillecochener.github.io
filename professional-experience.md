@@ -20,7 +20,7 @@ My missions :
 * Optimized Deep Learning models on a microcomputer (TensorRT, NVIDIA Jetson)
 * Wrote  scientific documentation to apply for funding awards
 
-In parallel, I wrote and defended a professional thesis named <i>"Improvement of an embedded artificial intelligence solution for the detection of waste in sorting centres"</i>, supervised by Stéphane Lathuilière (Assistant Professor at Télécom Paris in the multimedia team).
+<p style="text-align: justify;">In parallel, I wrote and defended a professional thesis named <i>"Improvement of an embedded artificial intelligence solution for the detection of waste in sorting centres"</i>, supervised by Stéphane Lathuilière (Assistant Professor at Télécom Paris in the multimedia team).</p>
 
 ---
 
