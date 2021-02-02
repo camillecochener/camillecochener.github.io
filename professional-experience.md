@@ -9,7 +9,8 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px;">Data Scientist - Computer vision at <a href="https://lixo.tech/">Lixo</a></p><br>
 
 <img src="http://simpleicon.com/wp-content/uploads/Calendar-1.png"
-  align="left"> <i>From July 2019 to January 2021</i><br>
+  align="left"
+  width="7"> <i>From July 2019 to January 2021</i><br>
 
 <p style="text-align: justify;">Lixo is a startup created at the end of 2019 that develops quality control solutions for waste management players. The heart of the solution is a Computer Vision based application. During 6 months, I've been in charge with the training and deployment of Computer Vision models.</p>  
 
