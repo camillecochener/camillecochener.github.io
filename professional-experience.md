@@ -22,7 +22,7 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 
 <p style="text-align: justify;">In parallel, I wrote and defended a professional thesis named <i>"Improvement of an embedded artificial intelligence solution for the detection of waste in sorting centres"</i>, supervised by Stéphane Lathuilière (Assistant Professor at Télécom Paris in the multimedia team).</p>
 
-<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: 
+<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: Deep Learning, Computer Vision, Python, TensorFlow, PyTorch, GCP, Git, Waste
 
 ---
 
