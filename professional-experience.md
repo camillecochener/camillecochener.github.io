@@ -8,7 +8,7 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px;">▸ Data Scientist - Computer Vision at <a href="https://lixo.tech/">Lixo</a></p><br>
 
-<img src="assets/img/calendar.png"
+<img class="logocalendar" src="assets/img/calendar.png"
   align="left"
   width="12"> <i>From July 2019 to January 2021 - 6 months</i><br>
 
