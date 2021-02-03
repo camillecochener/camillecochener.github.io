@@ -24,10 +24,10 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 
 <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: Deep Learning, Computer Vision, Python, TensorFlow, PyTorch, GCP, Git, Waste
 
-<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Consultant at <a href="http://www.itm-stats.com/">IT&M Stats</a>
+<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Consultant at <a style="color: white" href="http://www.itm-stats.com/">IT&M Stats</a>
 </p>
 
-<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Intern at <a href="http://www.groupeclarins.com/en">Clarins</a>
+<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Intern at <a style="color: white" href="http://www.groupeclarins.com/en">Clarins</a>
 </p>
 
 
