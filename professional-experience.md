@@ -6,7 +6,7 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 
 ## Details about my professional experience
 
-<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding: 5px;">Data Scientist - Computer Vision at <a href="https://lixo.tech/">Lixo</a></p>
+<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding: 5px; border-radius: 25px;">Data Scientist - Computer Vision at <a href="https://lixo.tech/">Lixo</a></p>
 
 <img src="assets/img/calendar.png" 
   style="vertical-align: middle ; padding: 5px" 
