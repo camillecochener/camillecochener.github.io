@@ -11,7 +11,7 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 <img src="assets/img/calendar.png"
   align="left"
   style="vertical-align: middle ; padding: 5px" 
-  width="16"> <i>From July 2019 to January 2021 - 6 months</i><br>
+  width="18"> <i>From July 2019 to January 2021 - 6 months</i><br>
 
 <p style="text-align: justify;">Lixo is a startup created at the end of 2019 that develops quality control solutions for waste management players. The heart of the solution is a Computer Vision based application. During 6 months, I've been in charge with the training and deployment of Computer Vision models.</p>  
 
