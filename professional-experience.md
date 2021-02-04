@@ -74,7 +74,7 @@ I operated for :
 * Carrying out a state of the art on the subject and defining the scope of the project
 * Organising data collection
 * Preparing and exploring data, searching for <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">correlations</span>
-* Constructing an <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">explanatory model</span> and interpreting the results
+* Built an <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">explanatory model</span> and interpreting the results
 * Communicating results to provide guidelines for new product development
 
 <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: Statistics, Data Analysis, Statistical Modeling, R, Research
