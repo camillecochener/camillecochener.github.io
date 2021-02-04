@@ -46,7 +46,7 @@ Go directly to my experience as...
 <span style="color:#16af9d">As a Consultant in Data Science, my missions : </span>
 * Analysing the client's needs and expectations
 * Defining the data sources to be used
-* Setting up working methods for the <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">management of statistical and data science projects</span>
+* <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Managing  statistical and data science projects</span>
 * Taking charge of data (<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">data management</span>, <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">data manipulation</span>, intermediate data)
 * Using and developping <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Machine Learning</span>, <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Data Mining</span> and <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">dimension reduction algorithms</span>
 * Reading/approving codes and reports
