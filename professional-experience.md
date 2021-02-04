@@ -36,12 +36,15 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 <span style="color:#16af9d">As a Consultant in Data Science, my missions : </span>
 * Analysing the client's needs and expectations
 * Defining the data sources to be used
-* Setting up working methods relating to the <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">management of statistical and data science projects</span>
+* Setting up working methods for the <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">management of statistical and data science projects</span>
 * Taking charge of data (<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">data management</span>, <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">data manipulation</span>, intermediate data)
 * Using and developping <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Machine Learning</span>, <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Data Mining</span> and <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">dimension reduction algorithms</span>
 * Reading/approving codes and reports
 * Presenting the results and participating in the client's decision-making process
 * Consulting: formulating recommendations based on the results obtained.
+
+I operated for : 
+* L'Oréal R&I during 1 year, 6 months : In the Scientific Computing team, I'd taken in charge day-to-day Data Science projects, supporting the R&D laboratories. For instance, I built models to predict consumer and sensory perceptions with instrumental parameters for several types of cosmetic products. I also developed applications in RShiny and GWidgets serving laboratories with specific data analysis. 
 
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Intern at <a style="color: white" href="http://www.groupeclarins.com/en">Clarins</a>
 </p>
