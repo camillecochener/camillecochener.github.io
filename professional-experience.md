@@ -79,4 +79,4 @@ I operated for :
 
 <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: Statistics, Data Analysis, Statistical Modeling, R, Research
 
-[Back to homepage](./) [Back to top](#top)
+[Back to homepage](./) - [Back to top](#top)
