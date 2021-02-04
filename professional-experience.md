@@ -3,8 +3,6 @@ layout: default
 ---
 Professional experience | [Projects](./projects.html) | [Blog articles](./blog-articles.html) | [Contact](./contact.html)
 
-<a name="top"></a>
-
 ## Details about my professional experience
 
 Go directly to my experience as...
@@ -80,4 +78,4 @@ I operated for :
 
 <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: Statistics, Data Analysis, Statistical Modeling, R, Research
 
-[Back to homepage](./) - [Back to top](#top)
+[Back to homepage](./) - <a href="https://camillecochener.github.io/professional-experience.html">Back to top</a>
