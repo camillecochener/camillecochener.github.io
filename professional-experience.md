@@ -76,7 +76,7 @@ I operated for :
 * Built an <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">explanatory model</span> and interpreting the results
 * Communicating results to provide guidelines for new product development
 
-In parallel, I wrote and defended a thesis named "Relationships between consumer perceptions and instrumental measurements of skin mechanical properties", supervised by Sébastien Lê (Assistant Professor at Agrocampus Ouest in the applied mathematics department).
+In parallel, I wrote and defended a thesis named "<i>Relationships between consumer perceptions and instrumental measurements of skin mechanical properties</i>", supervised by Sébastien Lê (Assistant Professor at Agrocampus Ouest in the applied mathematics department).
 
 <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: Statistics, Data Analysis, Statistical Modeling, R, Research
 
