@@ -47,9 +47,9 @@ Go directly to my experience as...
 * Defining the data sources to be used
 * <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Managing  statistical and data science projects</span>
 * Taking charge of data (<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">data management</span>, <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">data manipulation</span>, intermediate data)
-* Using and developping <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Machine Learning</span>, <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Data Mining</span> and <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">dimension reduction algorithms</span>
+* Developping <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Machine Learning</span>, <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Data Mining</span> and <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">dimension reduction algorithms</span>
 * Reading/approving codes and reports
-* Presenting the results and participating in the client's decision-making process
+* Presenting results and participating in the client's decision-making process
 * Consulting: formulating recommendations based on the results obtained.
 
 I operated for : 
