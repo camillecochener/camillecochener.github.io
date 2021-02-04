@@ -44,7 +44,9 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 * Consulting: formulating recommendations based on the results obtained.
 
 I operated for : 
-* L'Oréal R&I during 1 year, 6 months : In the Scientific Computing team, I'd taken in charge day-to-day Data Science projects, supporting the R&D laboratories. For instance, I built models to predict consumer and sensory perceptions with instrumental parameters for several types of cosmetic products. I also developed applications in RShiny and GWidgets serving laboratories with specific data analysis. 
+* <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">L'Oréal R&I during 1 year, 6 months</span> : In the Scientific Computing team, I'd taken in charge day-to-day Data Science projects, supporting the R&D laboratories. 
+* <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Essilor International during 10 months</span> : I was in charge of the first Data Science project within the R&D department related to the analysis of the historical data of antireflective products development. 
+* <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Several fixed-price projects</span> : to build classification models on biological data, to identify influence of parameters on indicators, to segment a customer portfolio, to build appetence score, to provide a training in programming...
 
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Intern at <a style="color: white" href="http://www.groupeclarins.com/en">Clarins</a>
 </p>
