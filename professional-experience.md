@@ -42,7 +42,7 @@ Go directly to my experience as...
 
 <p style="text-align: justify;">IT&M Stats provides its clients with consultants specialized in Statistics, Data Science and programming, in the form of consultancy services, fixed-price packages and training. The sectors in which IT&M Stats operates are the Pharmaceutical, Cosmetics, Health and Food industries, but today also Banks and Insurance companies.</p> 
 
-<span style="color:#16af9d">As a Consultant in Data Science, my missions : </span>
+<span style="color:#16af9d">As a Consultant in Data Science, my missions consisted in : </span>
 * Analysing the client's needs and expectations
 * Defining the data sources to be used
 * Managing  statistical and data science projects
