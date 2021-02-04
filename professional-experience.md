@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<a name="top"></a>
 Professional experience | [Projects](./projects.html) | [Blog articles](./blog-articles.html) | [Contact](./contact.html)
 
 ## Details about my professional experience
@@ -79,4 +79,4 @@ I operated for :
 
 <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: Statistics, Data Analysis, Statistical Modeling, R, Research
 
-[Back to homepage](./)
+[Back to homepage](./) [Back to top](#top)
