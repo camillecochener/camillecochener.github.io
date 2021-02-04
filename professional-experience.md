@@ -7,9 +7,9 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 
 Go directly to my experience as...
 
-- [Data Scientist - Computer Vision at Lixo](#ds_cv_lixo)
-- [Data Scientist Consultant at IT&M Stats](#ds_consult_itm)
-- [Data Scientist Intern at Clarins Laboratories](#ds_intern_clarins)
+- [Data Scientist - Computer Vision at Lixo (2020-2021)](#ds_cv_lixo)
+- [Data Scientist Consultant at IT&M Stats (2017-2019)](#ds_consult_itm)
+- [Data Scientist Intern at Clarins Laboratories (2016)](#ds_intern_clarins)
 
 <br>
 
