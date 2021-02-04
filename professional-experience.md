@@ -27,9 +27,17 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Consultant at <a style="color: white" href="http://www.itm-stats.com/">IT&M Stats</a>
 </p>
 
+<img src="assets/img/calendar.png" 
+  style="vertical-align: middle ; padding: 5px" 
+  width="20"> <i>From January 2017 to July 2019 - 2 year, 7 months</i><br>
+
+<p style="text-align: justify;">IT&M Stats provides its clients with consultant specialized in Statistics, Data Science and programming, in the form of consultancy services, fixed-price packages and training. The sectors in which IT&M Stats operates are the Pharmaceutical, Cosmetics, Health and Food industries, but today also Banks and Insurance companies.</p> 
+
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Intern at <a style="color: white" href="http://www.groupeclarins.com/en">Clarins</a>
 </p>
 
-
+<img src="assets/img/calendar.png" 
+  style="vertical-align: middle ; padding: 5px" 
+  width="20"> <i>From March 2016 to September 2016 - 6 months</i><br>
 
 [Back to homepage](./)
