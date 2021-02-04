@@ -29,7 +29,7 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 
 <img src="assets/img/calendar.png" 
   style="vertical-align: middle ; padding: 5px" 
-  width="20"> <i>From January 2017 to July 2019 - 2 year, 7 months</i><br>
+  width="20"> <i>From January 2017 to July 2019 - 2 years, 7 months</i><br>
 
 <p style="text-align: justify;">IT&M Stats provides its clients with consultant specialized in Statistics, Data Science and programming, in the form of consultancy services, fixed-price packages and training. The sectors in which IT&M Stats operates are the Pharmaceutical, Cosmetics, Health and Food industries, but today also Banks and Insurance companies.</p> 
 
