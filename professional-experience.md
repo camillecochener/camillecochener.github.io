@@ -72,7 +72,7 @@ I operated for :
 
 <span style="color:#16af9d">My missions : </span>
 * Carrying out a state of the art on the subject and defining the scope of the project
-* Organising data collection
+* Organising a data collection campaign
 * Preparing and exploring data, searching for <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">correlations</span>
 * Built an <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">explanatory model</span> and interpreting the results
 * Communicating results to provide guidelines for new product development
