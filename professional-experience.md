@@ -48,6 +48,8 @@ I operated for :
 * <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Essilor International during 10 months</span> : I was in charge of the first Data Science project within the R&D department related to the analysis of the historical data of antireflective products development. 
 * <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Several fixed-price projects for clients in various areas</span> : to build classification models on biological data, to identify influence of parameters on indicators, to segment a customer portfolio, to build appetence score, to provide a training in programming...
 
+<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: Statistics, Data Analysis, Machine Learning, Applications, R, Python, SQL, Consulting
+
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Intern at <a style="color: white" href="http://www.groupeclarins.com/en">Clarins</a>
 </p>
 
