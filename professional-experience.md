@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-<a name="top"></a>
 Professional experience | [Projects](./projects.html) | [Blog articles](./blog-articles.html) | [Contact](./contact.html)
+
+<a name="top"></a>
 
 ## Details about my professional experience
 
