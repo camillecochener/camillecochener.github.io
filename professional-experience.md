@@ -57,4 +57,15 @@ I operated for :
   style="vertical-align: middle ; padding: 5px" 
   width="20"> <i>From March 2016 to September 2016 - 6 months</i><br>
 
+<p style="text-align: justify;">Laboratoire Clarins is a French company specialized in the development, manufacturing and distribution of top-of-the-range cosmetic products. Within the Evaluation department, I've worked for 6 months on a research topic which aimed to identify relationships between consumer perceptions and instrumental measurements of skin mechanical properties.</p> 
+
+<span style="color:#16af9d">My missions : </span>
+* Carrying out a state of the art on the subject and defining the scope of the project
+* Organising data collection
+* Preparing and exploring data, searching for <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">correlations</span>
+* Constructing an <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">explanatory model</span> and interpreting the results
+* Communicating results to provide guidelines for new product development
+
+<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: Statistics, Data Analysis, Statistical Modeling, R, Research
+
 [Back to homepage](./)
