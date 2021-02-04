@@ -17,7 +17,7 @@ Hello there. I am Camille, a Data Science and Artifical Intelligence enthusiast.
 </p>
 
 <p>
-In 2016, I obtained an <b><span style="color:#16af9d">Engineering Degree in Statistics and Data Science</span></b> applied to biological and agri-food data from <b><span style="color:#16af9d">Agrocampus Ouest</span></b> in Rennes, France. I completed my master thesis at <b><span style="color:#16af9d">Clarins Laboratories</span></b> (Pontoise, France). During the internship, I modeled the relationships between consumers' perceptions and instrumental parameters of skin mechanical properties. My supervisor was Sebastien Lê, professor and researcher in the Department of statistics and computer science of Agrocampus Ouest.
+In 2016, I obtained an <b><span style="color:#16af9d">Engineering Degree in Statistics and Data Science</span></b> applied to biological and agri-food data from <b><span style="color:#16af9d">Agrocampus Ouest</span></b> in Rennes, France. I completed my master thesis at <b><span style="color:#16af9d">Clarins Laboratories</span></b> (Pontoise, France). During the internship, I modeled the relationships between consumers' perceptions and instrumental measurements of skin mechanical properties. My supervisor was Sebastien Lê, professor and researcher in the Department of statistics and computer science of Agrocampus Ouest.
 </p>
 
 <p>

@@ -67,7 +67,7 @@ I operated for :
   style="vertical-align: middle ; padding: 5px" 
   width="20"> <i>From March 2016 to September 2016 - 6 months</i><br>
 
-<p style="text-align: justify;">Laboratoire Clarins is a French company specialized in the development, manufacturing and distribution of top-of-the-range cosmetic products. Within the Evaluation department, I've worked for 6 months on a research topic which aimed to identify relationships between consumer perceptions and instrumental measurements of skin mechanical properties.</p> 
+<p style="text-align: justify;">Laboratoire Clarins is a French company specialized in the development, manufacturing and distribution of top-of-the-range cosmetic products. Within the Evaluation department, I've worked for 6 months on a research topic which aimed to identify relationships between consumers' perceptions and instrumental measurements of skin mechanical properties.</p> 
 
 <span style="color:#16af9d">My missions : </span>
 * Carrying out a state of the art and defining the scope of the project
@@ -76,7 +76,7 @@ I operated for :
 * Built an <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">explanatory model</span> and interpreting the results
 * Communicating results to provide guidelines for new product development
 
-In parallel, I wrote and defended a thesis named "<i>Relationships between consumer perceptions and instrumental measurements of skin mechanical properties</i>", supervised by Sébastien Lê (Assistant Professor at Agrocampus Ouest in the applied mathematics department).
+In parallel, I wrote and defended a thesis named "<i>Relationships between consumers' perceptions and instrumental measurements of skin mechanical properties</i>", supervised by Sébastien Lê (Assistant Professor at Agrocampus Ouest in the applied mathematics department).
 
 <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: Statistics, Data Analysis, Statistical Modeling, R, Research
 
