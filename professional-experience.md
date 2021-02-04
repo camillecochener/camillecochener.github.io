@@ -31,7 +31,7 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
   style="vertical-align: middle ; padding: 5px" 
   width="20"> <i>From January 2017 to July 2019 - 2 years, 7 months</i><br>
 
-<p style="text-align: justify;">IT&M Stats provides its clients with consultant specialized in Statistics, Data Science and programming, in the form of consultancy services, fixed-price packages and training. The sectors in which IT&M Stats operates are the Pharmaceutical, Cosmetics, Health and Food industries, but today also Banks and Insurance companies.</p> 
+<p style="text-align: justify;">IT&M Stats provides its clients with consultants specialized in Statistics, Data Science and programming, in the form of consultancy services, fixed-price packages and training. The sectors in which IT&M Stats operates are the Pharmaceutical, Cosmetics, Health and Food industries, but today also Banks and Insurance companies.</p> 
 
 <span style="color:#16af9d">As a Consultant in Data Science, my missions : </span>
 * Analysing the client's needs and expectations
