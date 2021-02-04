@@ -12,8 +12,10 @@ Go directly to my experience as...
 - [Data Scientist Consultant at IT&M Stats](#ds_consult_itm)
 - [Data Scientist Intern at Clarins Laboratories](#ds_intern_clarins)
 
-<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist - Computer Vision at <a style="color: white" href="https://lixo.tech/">Lixo</a></p>
+<br>
+
 <a name="ds_cv_lixo"></a>
+<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist - Computer Vision at <a style="color: white" href="https://lixo.tech/">Lixo</a></p>
 
 <img src="assets/img/calendar.png" 
   style="vertical-align: middle ; padding: 5px" 
@@ -31,9 +33,9 @@ Go directly to my experience as...
 
 <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: Deep Learning, Computer Vision, Python, TensorFlow, PyTorch, GCP, Git, Waste
 
+<a name="ds_consult_itm"></a>
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Consultant at <a style="color: white" href="http://www.itm-stats.com/">IT&M Stats</a>
 </p>
-<a name="ds_consult_itm"></a>
 
 <img src="assets/img/calendar.png" 
   style="vertical-align: middle ; padding: 5px" 
@@ -58,9 +60,9 @@ I operated for :
 
 <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Keywords</span>: Statistics, Data Analysis, Machine Learning, Applications, R, Python, SQL, Consulting
 
+<a name="ds_intern_clarins"></a>
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Intern at <a style="color: white" href="http://www.groupeclarins.com/en">Clarins</a>
 </p>
-<a name="ds_intern_clarins"></a>
 
 <img src="assets/img/calendar.png" 
   style="vertical-align: middle ; padding: 5px" 
