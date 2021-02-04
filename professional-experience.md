@@ -44,7 +44,7 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 * Consulting: formulating recommendations based on the results obtained.
 
 I operated for : 
-* <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">L'Oréal R&I during 1 year, 6 months</span> : In the Scientific Computing team, I'd taken in charge day-to-day Data Science projects, supporting the R&D laboratories. 
+* <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">L'Oréal R&I during 1 year, 6 months</span> : In the Scientific Computing team, I was in charge of day-to-day Data Science projects, supporting the R&D laboratories. 
 * <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Essilor International during 10 months</span> : I was in charge of the first Data Science project within the R&D department related to the analysis of the historical data of antireflective products development. 
 * <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Several fixed-price projects for clients in various areas</span> : to build classification models on biological data, to identify influence of parameters on indicators, to segment a customer portfolio, to build appetence score, to provide a training in programming...
 
