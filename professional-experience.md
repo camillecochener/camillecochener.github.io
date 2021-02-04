@@ -6,7 +6,14 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 
 ## Details about my professional experience
 
+Go directly to my experience as...
+
+- [Data Scientist - Computer Vision at Lixo](#ds_cv_lixo)
+- [Data Scientist Consultant at IT&M Stats](#ds_consult_itm)
+- [Data Scientist Intern at Clarins Laboratories](#ds_intern_clarins)
+
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist - Computer Vision at <a style="color: white" href="https://lixo.tech/">Lixo</a></p>
+<a name="ds_cv_lixo"></a>
 
 <img src="assets/img/calendar.png" 
   style="vertical-align: middle ; padding: 5px" 
@@ -26,6 +33,7 @@ Professional experience | [Projects](./projects.html) | [Blog articles](./blog-a
 
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Consultant at <a style="color: white" href="http://www.itm-stats.com/">IT&M Stats</a>
 </p>
+<a name="ds_consult_itm"></a>
 
 <img src="assets/img/calendar.png" 
   style="vertical-align: middle ; padding: 5px" 
@@ -52,6 +60,7 @@ I operated for :
 
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Data Scientist Intern at <a style="color: white" href="http://www.groupeclarins.com/en">Clarins</a>
 </p>
+<a name="ds_intern_clarins"></a>
 
 <img src="assets/img/calendar.png" 
   style="vertical-align: middle ; padding: 5px" 
