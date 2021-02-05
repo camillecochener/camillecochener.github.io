@@ -12,7 +12,7 @@ layout: default
   style="vertical-align: middle ; padding: 5px" 
   width="20"> <i>From February 2020 to April 2020 - 2 months</i><br>
 
-<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Objectives : to build a local Marketing Mix Modeling (MMM) in order to analyze and predict the impact of marketing media on sales (ROI)</span>
+<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Objective : to build a local Marketing Mix Modeling (MMM) in order to analyze and predict the impact of marketing media on sales (ROI)</span>
 
 <p style="text-align: justify;">What is a MMM ?
 
