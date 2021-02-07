@@ -12,9 +12,9 @@ layout: default
   style="vertical-align: middle ; padding: 5px" 
   width="20"> <i>From February 2020 to April 2020 - 2 months</i><br>
 
-<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">Objective : to build a local Marketing Mix Modeling (MMM) in order to analyze and predict the impact of marketing media on sales (ROI)</span>
+<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;"><u>Objective</u> : to build a local Marketing Mix Modeling (MMM) in order to analyze and predict the impact of marketing media on sales (ROI)</span>
 
-<p style="text-align: justify;">I took part in the annual hackathon organized by the "Next Gen RetAIl" chair at Ecole Polytechnique, which gathered 132 students in 26 teams. During this challenge, Carrefour, the sponsor of the chair, proposed 3 study themes: building the optimal product DNA of a shop, designing a Local MMM and optimizing the frequency and packaging of in-store supplies.  </p>
+<p style="text-align: justify;">I took part in the annual hackathon organized by the "Next Gen RetAIl" chair at <a style="color: white" href="https://www.polytechnique.edu/">Ecole Polytechnique</a>, which gathered 132 students in 26 teams. During this challenge, Carrefour, the sponsor of the chair, proposed 3 study themes: building the optimal product DNA of a shop, designing a Local MMM and optimizing the frequency and packaging of in-store supplies.  </p>
 
 <p style="text-align: justify;">My team won the hackathon by proposing a MMM with a local granularity that focuses specifically on organic products. Our model allows to determine the business drivers of organic product sales. </p> 
 
