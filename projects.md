@@ -22,7 +22,8 @@ layout: default
 
 <p style="text-align: justify;">Marketing Mix Modeling studies the relationships between marketing spending and business performance (i.e. revenue, sales) to determine business drivers and estimate return on investment (ROI). It helps marketing experts to better allocate their budgets on marketing channels. </p> 
 
-
+<img src="assets/img/MMM.png" 
+  style="vertical-align: middle" >
 
 <p style="text-align: justify;">To build our model, we had access to more than 30 historical datasets on all products, purchases, marketing investments and sales of Carrefour shops. Using these, we were able to train a very efficient Machine Learning algorithm, CatBoost, and then interpret it using Shapley values. The results were presented in the form of a user-friendly dashboard built with Dash.  </p>
 
