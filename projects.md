@@ -6,7 +6,7 @@ layout: default
 
 ## Project Portfolio
 
-<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Hackathon Ecole Polytechnique/Carrefour (Rank: 1st place) - Marketing Mix Modeling</p>
+<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Hackathon Ecole Polytechnique/Carrefour (Rank: 1st) - Marketing Mix Modeling</p>
 
 <img src="assets/img/calendar.png" 
   style="vertical-align: middle ; padding: 5px" 
@@ -39,5 +39,9 @@ layout: default
 
 
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Bike Sharing Predictions - Machine Learning with Spark</p>
+
+
+<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Hackathon QMI/LFIS/Dauphine (Rank: 4th) - Machine Learning for Asset Management</p>
+
 
 [Back to homepage](./)
