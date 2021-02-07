@@ -29,5 +29,6 @@ layout: default
 
 <p style="text-align: justify;">The hackathon ended with a pitch session during which we provided recommendations that were in line with the food transition objectives of the company to a jury of Carrefour directors.</p>
 
+<a href="https://github.com/camillecochener/Hackathon-X-Carrefour-2020" rel="nofollow noopener noreferrer"> <i class="fab fa-github"></i>View details on Github</a>
 
 [Back to homepage](./)
