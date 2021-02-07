@@ -6,7 +6,7 @@ layout: default
 
 ## Project Portfolio
 
-<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Hackathon Ecole Polytechnique/Carrefour - Marketing Mix Modeling - Rank: 1st place</p>
+<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Hackathon Ecole Polytechnique/Carrefour (Rank: 1st place) - Marketing Mix Modeling</p>
 
 <img src="assets/img/calendar.png" 
   style="vertical-align: middle ; padding: 5px" 
