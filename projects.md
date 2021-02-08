@@ -6,6 +6,17 @@ layout: default
 
 ## Project Portfolio
 
+Go directly to...
+
+- [Hackathon Ecole Polytechnique/Carrefour (Rank: 1st) - Marketing Mix Modeling (2020)](#hackathon-carrefour)
+- [Toxic Comment Classification Challenge - NLP (2020)](#nlp-toxic-challenge)
+- [Hackathon QMI/LFIS/Dauphine (Rank: 4th) - Machine Learning for Asset Management (2020)](#qmi-challenge)
+- [Building of a resilient ETL to analyze GDELT database - Data Engineering (2019-2020)](#gdelt-project)
+- [Bike Sharing Predictions - Machine Learning with Spark (2019)](#bike-sharing-spark)
+
+<br>
+
+<a name="hackathon-carrefour"></a>
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Hackathon Ecole Polytechnique/Carrefour (Rank: 1st) - Marketing Mix Modeling</p>
 
 <img src="assets/img/calendar.png" 
@@ -32,6 +43,8 @@ layout: default
 <p style="text-align: center;"><a href="https://github.com/camillecochener/Hackathon-X-Carrefour-2020" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a> <a href="https://www.polytechnique.edu/en/content/hackathon-chair-next-gen-retail-comes-end" rel="nofollow noopener noreferrer"><i class="far fa-newspaper" style="padding: 5px"></i>Article - Polytechnique</a> <a href="https://www.telecom-paris.fr/telecom-paris-remporte-hackathon-x-carrefour-ai-data-science" rel="nofollow noopener noreferrer"><i class="far fa-newspaper" style="padding: 5px"></i>Article - Télécom Paris</a></p>
 
 
+
+<a name="nlp-toxic-challenge"></a>
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Toxic Comment Classification Challenge - NLP</p>
 
 <img src="assets/img/calendar.png" 
@@ -63,6 +76,9 @@ To go further, we've built a user-friendly application using <a href="https://pl
 
 <p style="text-align: center;"><a href="https://github.com/camillecochener/Toxic-comment-classification-challenge" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a></p>
 
+
+
+<a name="qmi-challenge"></a>
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Hackathon QMI/LFIS/Dauphine (Rank: 4th) - Machine Learning for Asset Management</p>
 
 <img src="assets/img/calendar.png" 
@@ -70,13 +86,17 @@ To go further, we've built a user-friendly application using <a href="https://pl
   width="20"> <i>February 2020 - 24h challenge</i><br>
 
 
-<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">To build a resilient ETL to analyze GDELT database - Data Engineering</p>
+
+<a name="gdelt-project"></a>
+<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Building of a resilient ETL to analyze GDELT database - Data Engineering</p>
 
 <img src="assets/img/calendar.png" 
   style="vertical-align: middle ; padding: 5px" 
   width="20"> <i>From December 2019 to February 2020 - 2 months</i><br>
 
 
+
+<a name="bike-sharing-spark"></a>
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Bike Sharing Predictions - Machine Learning with Spark</p>
 
 <img src="assets/img/calendar.png" 
