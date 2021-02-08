@@ -10,7 +10,7 @@ Go directly to...
 
 - [Hackathon X/Carrefour (Rank: 1st) - Marketing Mix Modeling (2020)](#hackathon-carrefour)
 - [Toxic Comment Classification Challenge - NLP (2020)](#nlp-toxic-challenge)
-- [Hackathon QMI (Rank: 4th) - Machine Learning for Asset Management (2020)](#qmi-challenge)
+- [Hackathon QMI (Rank: 4th) - Machine Learning Asset Management (2020)](#qmi-challenge)
 - [ETL building to analyze GDELT database - Data Engineering (2019-2020)](#gdelt-project)
 - [Bike Sharing Predictions - Machine Learning with Spark (2019)](#bike-sharing-spark)
 
