@@ -95,13 +95,12 @@ To go further, we've built a user-friendly application using <a href="https://pl
 
 In this challenge, we had to build a classifier with the following output with a dataset of more than 15000 annoucement dates on SP500 and Stoxx600 :
 
-$$ \begin{cases} Y = 1, & \mbox{the range of the stock's performance, on the day of its earnings announcement, was greater than expected, } \\
-Y = 0, & \mbox{the magnitude of the stock's performance was lower than expected.} \end{cases} $$
-
 <div style="text-align:center"><img src="assets/img/Equation-qmi.gif"></div>
 
 
-<img src="">
+<p style="text-align: justify;">The evaluation score was the AUC. We obtained 58.30 placing us in 4th place overall. The best score was 59.61.</p>
+
+<p style="text-align: center;"><a href="" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Coming soon</a></p>
 
 
 
