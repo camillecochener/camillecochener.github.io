@@ -100,7 +100,16 @@ To go further, we've built a user-friendly application using <a href="https://pl
 
 <p style="text-align: justify;">The <a href="https://www.gdeltproject.org/">GDELT project</a> tracks media coverage of events around the world. This project has been listing world events for several years, and contains in its database information about their media coverage, i.e. the articles citing these events, the tone of the articles, the topics covered, the participants, the locations, etc. The database is updated every 15 minutes.</p>
 
+<p style="text-align: justify;">The objective of this project was to propose a distributed, resilient and high-performance storage system on AWS to answer a series of questions. </p>
+
+Our achitecture was composed of:
+* A storage system: AWS S3 buckets to store the GDELT raw data
+* An ETL system: a EMR cluster with 3 instances to extract, transform and load the data thanks to Spark and Zeppelin
+* A storage system allowing Spark SQL queries : a EC2 cluster with 3 instances (3 nodes Cassandra cluster)
+
 <div style="text-align:center"><img src="assets/img/Architecture_ETL.png" width="500"></div>
+
+<p style="text-align: justify;">The various requirements of the project have been fulfilled.</p>
 
 <p style="text-align: center;"><a href="https://github.com/camillecochener/ETL-building-for-GDELT-Data-Analysis" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a></p>
 
