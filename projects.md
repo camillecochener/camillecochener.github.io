@@ -53,7 +53,7 @@ layout: default
 
 <i>Note : As we participated in this competition as a "late submission", we couldn't obtain a ranking.</i>
 
-To go further, we've built an user-friendly application using <a href="https://plotly.com/dash/">Dash</a> to serve our model which could be deployed on <a href="https://www.heroku.com/">Heroku</a> for example. 
+To go further, we've built a user-friendly application using <a href="https://plotly.com/dash/">Dash</a> to serve our model which could be deployed on <a href="https://www.heroku.com/">Heroku</a> for example. 
 
 
 
