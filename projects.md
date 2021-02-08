@@ -97,6 +97,7 @@ In this challenge, we had to build a classifier with the following output with a
 
 <div style="text-align:center"><img src="assets/img/Equation-qmi.gif"></div>
 
+<p style="text-align: justify;">After data preparation and feature engineering, we trained three models by cross validation : a Logistic regression, a Random Forests and a XGBoost. For the hyperparameter settings, we used Bayesian optimization with <a href="http://hyperopt.github.io/hyperopt/">Hyperopt</a>. We then stacked the three models to obtain our predictions. </p>
 
 <p style="text-align: justify;">The evaluation score was the AUC. We obtained 58.30 placing us in 4th place overall. The best score was 59.61.</p>
 
