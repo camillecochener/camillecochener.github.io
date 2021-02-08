@@ -55,7 +55,8 @@ layout: default
 
 To go further, we've built a user-friendly application using <a href="https://plotly.com/dash/">Dash</a> to serve our model which could be deployed on <a href="https://www.heroku.com/">Heroku</a> for example. 
 
-
+<img src="assets/img/appli.gif" 
+  style="vertical-align: middle" >
 
 <p style="text-align: center;"><a href="https://github.com/camillecochener/Toxic-comment-classification-challenge" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a> <a href="" rel="nofollow noopener noreferrer"><i class="far fa-newspaper" style="padding: 5px"></i>Our final presentation</a></p>
 
