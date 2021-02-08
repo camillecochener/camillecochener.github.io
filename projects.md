@@ -85,6 +85,8 @@ To go further, we've built a user-friendly application using <a href="https://pl
   style="vertical-align: middle ; padding: 5px" 
   width="20"> <i>February 2020 - 24h challenge</i><br>
 
+<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;"><u>Objective</u> : to predict stock volatility among the S&P500 and Stoxx600 on performance announcement dates.</span>
+
 
 
 <a name="gdelt-project"></a>
@@ -93,6 +95,15 @@ To go further, we've built a user-friendly application using <a href="https://pl
 <img src="assets/img/calendar.png" 
   style="vertical-align: middle ; padding: 5px" 
   width="20"> <i>From December 2019 to February 2020 - 2 months</i><br>
+
+<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;"><u>Objective</u> : to build a resilient architecture for storing large amount of data from the GDELT database allowing fast responding queries.</span>
+
+<p style="text-align: justify;">The <a href="https://www.gdeltproject.org/">GDELT project</a> tracks media coverage of events around the world. This project has been listing world events for several years, and contains in its database information about their media coverage, i.e. the articles citing these events, the tone of the articles, the topics covered, the participants, the locations, etc. The database is updated every 15 minutes.</p>
+
+<div style="text-align:center"><img src="assets/img/Architecture_ETL.png" width="400"></div>
+
+<p style="text-align: center;"><a href="https://github.com/camillecochener/ETL-building-for-GDELT-Data-Analysis" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a></p>
+
 
 
 
@@ -103,5 +114,8 @@ To go further, we've built a user-friendly application using <a href="https://pl
   style="vertical-align: middle ; padding: 5px" 
   width="20"> <i>October 2019 - 1 week</i><br>
 
+<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;"><u>Objective</u> : </span>
+
+<p style="text-align: center;"><a href="https://github.com/camillecochener/Toxic-comment-classification-challenge" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a></p>
 
 [Back to homepage](./)
