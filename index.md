@@ -17,7 +17,7 @@ Hello there. I am Camille, a Data Science and Artifical Intelligence enthusiast.
 </p>
 
 <p>
-In 2016, I obtained an <b><span style="color:#16af9d">Engineering Degree in Statistics and Data Science</span></b> applied to biological and agri-food data from <b><span style="color:#16af9d">Agrocampus Ouest</span></b> in Rennes, France. I completed my master thesis at <b><span style="color:#16af9d">Clarins Laboratories</span></b> (Pontoise, France). During the internship, I modeled the relationships between consumers' perceptions and instrumental measurements of skin mechanical properties. My supervisor was Sebastien Lê, professor and researcher in the Department of statistics and computer science of Agrocampus Ouest.
+In 2016, I obtained an <b><span style="color:#16af9d">Engineering Degree in Statistics and Data Science</span></b> applied to biological and agri-food data from <b><span style="color:#16af9d">Agrocampus Ouest</span></b> in Rennes, France. I completed my master thesis at <b><span style="color:#16af9d">Clarins Laboratories</span></b> (Pontoise, France). During the internship, I modeled the relationships between consumers' perceptions and instrumental measurements of skin mechanical properties. It got an A+ grade. My supervisor was Sebastien Lê, professor and researcher in the Department of statistics and computer science of Agrocampus Ouest.
 </p>
 
 <p>
@@ -30,7 +30,7 @@ I also participated in several hackathons : a 2-month challenge organized by <b>
 </p>
 
 <p>
-I concluded my course by 6 months in a startup named <b><span style="color:#16af9d">Lixo</span></b>. Lixo develops quality control solutions based on a Computer Vision application for waste management players. I was <b><span style="color:#16af9d">responsible for the Computer Vision module</span></b>. My professional thesis was about improving the <b><span style="color:#16af9d">embedded Artificial Intelligence</span></b> solution for detecting waste in sorting centers. My supervisor was Stéphane Lathuilière, associate professor at Télécom Paris. 
+I concluded my course by 6 months in a startup named <b><span style="color:#16af9d">Lixo</span></b>. Lixo develops quality control solutions based on a Computer Vision application for waste management players. I was <b><span style="color:#16af9d">responsible for the Computer Vision module</span></b>. My professional thesis was about improving the <b><span style="color:#16af9d">embedded Artificial Intelligence</span></b> solution for detecting waste in sorting centers. I got an A+ grade. My supervisor was Stéphane Lathuilière, associate professor at Télécom Paris. 
 </p>
 
 <p>
