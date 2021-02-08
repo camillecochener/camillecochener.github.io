@@ -98,7 +98,7 @@ In this challenge, we had to build a classifier with the following output with a
 $$ \begin{cases} Y = 1, & \mbox{the range of the stock's performance, on the day of its earnings announcement, was greater than expected, } \\
 Y = 0, & \mbox{the magnitude of the stock's performance was lower than expected.} \end{cases} $$
 
-<div style="text-align:center"><img src="assets/img/Equation-qmi.png"></div>
+<div style="text-align:center"><img src="assets/img/Equation-qmi.gif"></div>
 
 
 <img src="">
