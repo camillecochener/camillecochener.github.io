@@ -97,6 +97,7 @@ In this challenge, we had to build a classifier with the following output with a
 
 <div style="text-align:center"><img src="assets/img/Equation-qmi.gif" width="400"></div>
 
+<br>
 <p style="text-align: justify;">After data preparation and feature engineering, we trained three models by cross validation : a Logistic regression, a Random Forests and a XGBoost. For the hyperparameter settings, we used Bayesian optimization with <a href="http://hyperopt.github.io/hyperopt/">Hyperopt</a>. We then stacked the three models to obtain our predictions.</p>
 
 <p style="text-align: justify;">The evaluation score was the AUC. We obtained 58.30 placing us in 4th place overall. The best score was 59.61.</p>
@@ -139,8 +140,14 @@ Our achitecture was composed of :
   style="vertical-align: middle ; padding: 5px" 
   width="20"> <i>October 2019 - 1 week</i><br>
 
-<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;"><u>Objective</u> : </span>
+<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;"><u>Objective</u> : to predict the number of bikes shared at a London bike station using Spark.</span>
 
-<p style="text-align: center;"><a href="https://github.com/camillecochener/Toxic-comment-classification-challenge" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a></p>
+<p style="text-align: justify;">The objective was to carry out a Machine Learning project using <a href="https://spark.apache.org/">Spark</a>. The subject was free. I chose to deal with the problem of predicting the number of bikes rented at a bike station in London using open access data sets.</p>
+
+<p style="text-align: justify;">After some data exploration, cleaning and preparation, I've trained a Random Forests by cross validation. I obtained a RMSE score of 0.53. Relative to the data values, this is a good prediction. </p>
+
+<p style="text-align: justify;">The project is further detailed in my GitHub repository.</p>
+
+<p style="text-align: center;"><a href="https://github.com/camillecochener/Bike-sharing-predictions-with-Spark/blob/master/SD701%20Project%20-%20Camille%20COCHENER.ipynb" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a></p>
 
 [Back to homepage](./)
