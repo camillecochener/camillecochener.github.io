@@ -87,14 +87,20 @@ To go further, we've built a user-friendly application using <a href="https://pl
 
 <span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;"><u>Objective</u> : to predict stock volatility among the S&P500 and Stoxx600 on performance announcement dates.</span>
 
-<p style="text-align: justify;">Investments are not made directly on the assets but on their volatilities through simultaneous calls and puts (straddles) purchases. Buying volatility is a losing strategy in the long run (i.e. the implied volatility is on average higher than the realized). However, around earnings announcement dates, performance is sometimes more volatile than usual.</p>
+<p style="text-align: justify;">I took part in the annual hackathon organized by <a href="https://www.qminitiative.org/quantitative-management-initiative.html">QMI</a> in partnership with <a href="https://www.lfis.com/fra/fr/pro">LFIS</a> and <a href="https://www.sesamm.com/">SESAm</a>, and hosted by <a href="https://dauphine.psl.eu/">Université Paris Dauphine</a>. The hackathon gathered around 70 students in 26 teams. It was a 24h challenge applying artificial intelligence and machine learning approaches to an asset management problem. </p>
 
-<p style="text-align: justify;">The aim of the project is to set up a systematic strategy that would take advantage of the behaviour of the volatility (implicit and realised) of individual stocks around the earnings announcements of the companies concerned.</p>
+<p style="text-align: justify;">The aim of the project was to set up a systematic strategy that would take advantage of the behaviour of the volatility (implicit and realised) of individual stocks around the earnings announcements of the companies concerned.</p>
 
-In this challenge, we had to build a classifier with the following output :
+<p style="text-align: justify;">Indeed, investments are not made directly on the assets but on their volatilities through simultaneous calls and puts (straddles) purchases. Buying volatility is a losing strategy in the long run (i.e. the implied volatility is on average higher than the realized). However, around earnings announcement dates, performance is sometimes more volatile than usual.</p>
+
+In this challenge, we had to build a classifier with the following output thanks to a dataset with more than 15000 annoucement dates :
 
 $$ \begin{cases} Y = 1, & \mbox{the range of the stock's performance, on the day of its earnings announcement, was greater than expected, } \\
-Y = 0, & \mbox{the magnitude of the stock's performance was lower than expected.} \end{cases}
+Y = 0, & \mbox{the magnitude of the stock's performance was lower than expected.} \end{cases} $$
+
+<img src="https://render.githubusercontent.com/render/math?math= \begin{cases} Y = 1, & \mbox{the range of the stock's performance, on the day of its earnings announcement, was greater than expected, } \\
+Y = 0, & \mbox{the magnitude of the stock's performance was lower than expected.} \end{cases} ">
+
 
 
 <a name="gdelt-project"></a>
