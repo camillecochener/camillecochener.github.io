@@ -48,11 +48,11 @@ layout: default
 
 <p style="text-align: justify;">Multi-label classification is a variant of classification problem where multiple labels could be assigned to each instance. On the contrary, a multiclass classification is a single-label problem in which instances are categorized into precisely one class. </p>
 
+<div style="text-align:center"><img src="assets/img/Multi label classification.png"></div>
 
 <p style="text-align: justify;">In our study, several deep learning approaches were tested and compared : Logistic regression (LR), Long Short-Term Memory Networks (LSTM), Convolutional Networks (CNN) combined with language processing techniques (NLP) and word representation methods (Word Embedding). Our final selected model was a bi-directional LSTM neural network. The results of this model were excellent: the AUC score obtained was 98%.</p>
 
-<img src="assets/img/Resultats Kaggle NLP.png" 
-  style="text-align: center;" width="400">
+<div style="text-align:center"><img src="assets/img/Resultats Kaggle NLP.png" width="400"></div>
 
 <i>Note : As we participated in this competition as a "late submission", we couldn't obtain a ranking.</i>
 
