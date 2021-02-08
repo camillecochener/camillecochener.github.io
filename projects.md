@@ -100,7 +100,7 @@ To go further, we've built a user-friendly application using <a href="https://pl
 
 <p style="text-align: justify;">The <a href="https://www.gdeltproject.org/">GDELT project</a> tracks media coverage of events around the world. This project has been listing world events for several years, and contains in its database information about their media coverage, i.e. the articles citing these events, the tone of the articles, the topics covered, the participants, the locations, etc. The database is updated every 15 minutes.</p>
 
-<p style="text-align: justify;">The objective of this project was to propose a distributed, resilient and high-performance storage system on AWS to answer a series of questions. </p>
+<p style="text-align: justify;">The objective of this project was to propose a distributed, resilient and high-performance storage system on AWS to answer a series of questions. The detailed instructions could be found <a href="http://andreiarion.github.io/projet2019.html">here</a>.</p>
 
 Our achitecture was composed of:
 * <u>A storage system</u> : AWS S3 buckets to store the GDELT raw data
