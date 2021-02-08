@@ -95,13 +95,13 @@ To go further, we've built a user-friendly application using <a href="https://pl
 
 In this challenge, we had to build a classifier with the following output with a dataset of more than 15000 annoucement dates on SP500 and Stoxx600 :
 
-<div style="text-align:center"><img src="assets/img/Equation-qmi.gif"></div>
+<div style="text-align:center"><img src="assets/img/Equation-qmi.gif" width="300"></div>
 
 <p style="text-align: justify;">After data preparation and feature engineering, we trained three models by cross validation : a Logistic regression, a Random Forests and a XGBoost. For the hyperparameter settings, we used Bayesian optimization with <a href="http://hyperopt.github.io/hyperopt/">Hyperopt</a>. We then stacked the three models to obtain our predictions. </p>
 
 <p style="text-align: justify;">The evaluation score was the AUC. We obtained 58.30 placing us in 4th place overall. The best score was 59.61.</p>
 
-<p style="text-align: center;"><a href="" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Coming soon</a></p>
+<p style="text-align: center;"> <i class="fab fa-github" style="padding: 5px"></i>Coming soon</p>
 
 
 
