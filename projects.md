@@ -61,7 +61,7 @@ To go further, we've built a user-friendly application using <a href="https://pl
 <img src="assets/img/appli.gif" 
   style="vertical-align: middle" >
 
-<p style="text-align: center;"><a href="https://github.com/camillecochener/Toxic-comment-classification-challenge" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a> <a href="" rel="nofollow noopener noreferrer"><i class="far fa-newspaper" style="padding: 5px"></i>Our final presentation</a></p>
+<p style="text-align: center;"><a href="https://github.com/camillecochener/Toxic-comment-classification-challenge" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a></p>
 
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Hackathon QMI/LFIS/Dauphine (Rank: 4th) - Machine Learning for Asset Management</p>
 
