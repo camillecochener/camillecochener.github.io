@@ -93,7 +93,7 @@ To go further, we've built a user-friendly application using <a href="https://pl
 
 <p style="text-align: justify;">Indeed, investments are not made directly on the assets but on their volatilities through simultaneous calls and puts (straddles) purchases. Buying volatility is a losing strategy in the long run (i.e. the implied volatility is on average higher than the realized). However, around earnings announcement dates, performance is sometimes more volatile than usual.</p>
 
-In this challenge, we had to build a classifier with the following output thanks to a dataset with more than 15000 annoucement dates :
+In this challenge, we had to build a classifier with the following output thanks to a dataset with more than 15000 annoucement dates on SP500 and Stoxx600 :
 
 $$ \begin{cases} Y = 1, & \mbox{the range of the stock's performance, on the day of its earnings announcement, was greater than expected, } \\
 Y = 0, & \mbox{the magnitude of the stock's performance was lower than expected.} \end{cases} $$
