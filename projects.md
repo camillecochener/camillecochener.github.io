@@ -32,16 +32,52 @@ layout: default
 <p style="text-align: center;"><a href="https://github.com/camillecochener/Hackathon-X-Carrefour-2020" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a> <a href="https://www.polytechnique.edu/en/content/hackathon-chair-next-gen-retail-comes-end" rel="nofollow noopener noreferrer"><i class="far fa-newspaper" style="padding: 5px"></i>Article - Polytechnique</a> <a href="https://www.telecom-paris.fr/telecom-paris-remporte-hackathon-x-carrefour-ai-data-science" rel="nofollow noopener noreferrer"><i class="far fa-newspaper" style="padding: 5px"></i>Article - Télécom Paris</a></p>
 
 
+<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Toxic Comment Classification Challenge - NLP</p>
+
+<img src="assets/img/calendar.png" 
+  style="vertical-align: middle ; padding: 5px" 
+  width="20"> <i>From March 2020 to June 2020 - 3 months</i><br>
+
+<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;"><u>Objective</u> : to build a multi-headed model that’s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate better than Perspective’s current models.</span> 
+
+<p style="text-align: justify;">The <a href="https://www.perspectiveapi.com/">Perspective API</a> uses Machine Learning to identify abusive comments. It is the product of a collaborative research effort operated by <a href="https://jigsaw.google.com">Jigsaw</a> and Google’s Counter Abuse Technology team, named <a href="https://conversationai.github.io/">Conversation AI</a>. They made their data available as part of a <a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview">Kaggle challenge</a> (2018) to enhance research about this topic and improve the tools to combat online toxicity and harassment.</p> 
+
+<p style="text-align: justify;">In this competition, we have to build a multi-label model to detect the toxicity of a sentence using a dataset of about 160k comments from Wikipedia’s talk page edits.</p> 
+
+<span style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">What is a multi-label classification model ?</span>
+
+<p style="text-align: justify;">Multi-label classification is a variant of classification problem where multiple labels could be assigned to each instance. On the contrary, a multiclass classification is a single-label problem in which instances are categorized into precisely one class. </p>
+
+
+<p style="text-align: justify;">In our study, several deep learning approaches were tested and compared : Logistic regression (LR), Long Short-Term Memory Networks (LSTM), Convolutional Networks (CNN) combined with language processing techniques (NLP) and word representation methods (Word Embedding). Our final selected model was a bi-directional LSTM neural network. The results of this model were excellent: the AUC score obtained was 98%.</p>
+
+<i>Note : As we participated in this competition as a "late submission", we couldn't obtain a ranking.</i>
+
+To go further, we've built an user-friendly application using <a href="https://plotly.com/dash/">Dash</a> to serve our model which could be deployed on <a href="https://www.heroku.com/">Heroku</a> for example. 
+
+
+
+<p style="text-align: center;"><a href="https://github.com/camillecochener/Toxic-comment-classification-challenge" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a> <a href="" rel="nofollow noopener noreferrer"><i class="far fa-newspaper" style="padding: 5px"></i>Our final presentation</a></p>
+
+<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Hackathon QMI/LFIS/Dauphine (Rank: 4th) - Machine Learning for Asset Management</p>
+
+<img src="assets/img/calendar.png" 
+  style="vertical-align: middle ; padding: 5px" 
+  width="20"> <i>February 2020 - 24h challenge</i><br>
+
+
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">To build a resilient ETL to analyze GDELT database - Data Engineering</p>
 
-
-<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Toxic Comment Classification Challenge - NLP</p>
+<img src="assets/img/calendar.png" 
+  style="vertical-align: middle ; padding: 5px" 
+  width="20"> <i>From December 2019 to February 2020 - 2 months</i><br>
 
 
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Bike Sharing Predictions - Machine Learning with Spark</p>
 
-
-<p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif; font-size:18px; background-color : #16af9d; color: white ; padding-left: 10px; border-radius: 10px;">Hackathon QMI/LFIS/Dauphine (Rank: 4th) - Machine Learning for Asset Management</p>
+<img src="assets/img/calendar.png" 
+  style="vertical-align: middle ; padding: 5px" 
+  width="20"> <i>October 2019 - 1 week</i><br>
 
 
 [Back to homepage](./)
