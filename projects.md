@@ -52,7 +52,7 @@ layout: default
 <p style="text-align: justify;">In our study, several deep learning approaches were tested and compared : Logistic regression (LR), Long Short-Term Memory Networks (LSTM), Convolutional Networks (CNN) combined with language processing techniques (NLP) and word representation methods (Word Embedding). Our final selected model was a bi-directional LSTM neural network. The results of this model were excellent: the AUC score obtained was 98%.</p>
 
 <img src="assets/img/Resultats Kaggle NLP.png" 
-  style="vertical-align: middle" width="50">
+  style="vertical-align: middle" width="150">
 
 <i>Note : As we participated in this competition as a "late submission", we couldn't obtain a ranking.</i>
 
