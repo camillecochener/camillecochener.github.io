@@ -150,4 +150,4 @@ Our achitecture was composed of :
 
 <p style="text-align: center;"><a href="https://github.com/camillecochener/Bike-sharing-predictions-with-Spark/blob/master/SD701%20Project%20-%20Camille%20COCHENER.ipynb" rel="nofollow noopener noreferrer"> <i class="fab fa-github" style="padding: 5px"></i>Details on Github</a></p>
 
-[Back to homepage](./)
+[Back to homepage](./) - <a href="https://camillecochener.github.io/projects.html">Back to top</a>
