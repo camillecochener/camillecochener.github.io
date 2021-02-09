@@ -93,7 +93,7 @@ To go further, we've built a user-friendly application using <a href="https://pl
 
 <p style="text-align: justify;">Indeed, investments are not made directly on the assets but on their volatilities through simultaneous calls and puts (straddles) purchases. Buying volatility is a losing strategy in the long run (i.e. the implied volatility is on average higher than the realized). However, around earnings announcement dates, performance is sometimes more volatile than usual.</p>
 
-In this challenge, we had to build a classifier with the following output with a dataset of more than 15000 annoucement dates on SP500 and Stoxx600 :
+In this challenge, we had to build a classifier with a dataset of more than 15000 annoucement dates on SP500 and Stoxx600. Outputs are :
 
 <div style="text-align:center"><img src="assets/img/Equation-qmi.gif" width="400"></div>
 
