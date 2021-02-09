@@ -124,7 +124,7 @@ Our achitecture was composed of :
 * <u>An ETL system</u> : an EMR cluster with 3 instances to extract, transform and load the data thanks to Spark and Zeppelin
 * <u>A storage system allowing Spark SQL queries</u> : an EC2 cluster with 3 instances (3 nodes Cassandra cluster)
 
-<div style="text-align:center"><img src="assets/img/Architecture_ETL.png" width="500"></div>
+<div style="text-align:center"><img src="assets/img/Architecture_ETL.png" width="400"></div>
 
 <p style="text-align: justify;">The various requirements of the project have been fulfilled.</p>
 
