@@ -35,7 +35,7 @@ To complete my Engineering Degree (equivalent to a Master Degree), I’ve undert
 </p>
 
 <p>
-I concluded my course by 6 months in a startup named <b><span style="color:#16af9d">Lixo</span></b>. Lixo develops quality control solutions based on a Computer Vision application for waste management players. I was <b><span style="color:#16af9d">responsible for the Computer Vision module</span></b>. My professional thesis was about improving the <b><span style="color:#16af9d">embedded Artificial Intelligence</span></b> solution for detecting waste in sorting centers. I got an A+ grade. My supervisor was Stéphane Lathuilière, associate professor at Télécom Paris. 
+I concluded my course by 6 months in a startup named <b><span style="color:#16af9d">Lixo</span></b>. Lixo develops quality control solutions based on a Computer Vision application for waste management players. I was <b><span style="color:#16af9d">responsible for the Computer Vision module</span></b>. My professional thesis was about improving the <b><span style="color:#16af9d">embedded Artificial Intelligence</span></b> solution for detecting waste in sorting centers (A+ grade obtained). My supervisor was Stéphane Lathuilière, associate professor at Télécom Paris. 
 </p>
 
 <p>
