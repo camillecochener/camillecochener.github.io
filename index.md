@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Professional experience](./professional-experience.html) | [Projects](./projects.html) | [Blog articles](./blog-articles.html) | [Contact](mailto:cochenercamille@yahoo.fr)
+[Professional experience](./professional-experience.html) | [Portfolio](./projects.html) | [Blog articles](./blog-articles.html) | [Contact](mailto:cochenercamille@yahoo.fr)
 
 # About me
 
