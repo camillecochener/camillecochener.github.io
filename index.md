@@ -9,7 +9,7 @@ layout: default
 <div style="text-align: justify">
 
 <p>
-Hello there. I am Camille, a Data Science and Artifical Intelligence enthusiast. It's been <b><span style="color:#16af9d">4 years I'm working in Data Science</span></b> : 3 years in different companies and 1 year during which I attended a Post Master Degree in Big Data. At the present time, <b><span style="color:#16af9d">I am currently looking for a Data Scientist position</span></b>.
+Hello there. I am Camille, a Data Science and Artifical Intelligence enthusiast. It's been <b><span style="color:#16af9d">4 years I'm working in Data Science</span></b> : 3 years in different companies and 1 year during which I attended a Post Master Degree in Big Data. At the present time, <b><span style="color:#16af9d">I am currently looking for a Data Scientist/Machine Learning Engineer position</span></b>.
 </p>  
 
 <p style="font-weight: bold; font-family: 'Yanone Kaffeesatz', sans-serif;">
